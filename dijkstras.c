@@ -166,7 +166,6 @@
 #include "stdio.h"
 #include "conio.h"
 #define infinity 999
-
 void dij(int n,int v,int cost[10][10],int dist[])
 {
     int i,u,count,w,flag[10],min;
